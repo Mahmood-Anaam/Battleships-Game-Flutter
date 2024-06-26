@@ -92,9 +92,9 @@ BEGIN
             VALUE "CompanyName", "com.example" "\0"
             VALUE "FileDescription", "battleships_game_flutter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "battleships_game_flutter" "\0"
+            VALUE "InternalName", "Battleships" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "battleships_game_flutter.exe" "\0"
+            VALUE "OriginalFilename", "Battleships.exe" "\0"
             VALUE "ProductName", "battleships_game_flutter" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
