@@ -98,7 +98,5 @@ The Battleships REST API service can be accessed at the base URL `http://165.227
 The application is available for download in APK format for Android devices at the following link: 
 [Download APK](https://drive.google.com/drive/folders/1ByJMYXcoa_l-6QGRCeKtrobfb8Kxr4b5?usp=sharing)
 
-## Contribution
-We welcome contributions! Please fork the repository and submit pull requests with clear descriptions of your changes.
 
 
